@@ -1,0 +1,6 @@
+- **genesis.json** Configuration file for initial (first) start of nodeos. used by **eos_build.sh**
+- **eos_build.sh** Initializes a new eos.io blockchain using **genesis.json**
+- **eos_up.sh** Start the already initialized blockchain
+- **eos_down.sh** Stops running blockchain
+- **eos_wipe.sh** Wipes existing data from blockchain
+- **eos_hardreplay.sh** performs a hard replay of blocks
